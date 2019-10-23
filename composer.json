@@ -1,0 +1,16 @@
+{
+    "name": "dell/admin_option_page",
+    "description": "add option page to add  settings",
+    "authors": [
+        {
+            "name": "Skener",
+            "email": "skenerster@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Admin\\": "admin"
+        }
+    }
+}
